@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/canonical/subiquity/commit/d05694b1cd06873eac8f91e69afbbb4525ae58ac",
       "git:hexsha": "d05694b1cd06873eac8f91e69afbbb4525ae58ac",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T15:10:26.745869+00:00"
     },
     {
       "@id": "https://repolex.ai/r/canonical/subiquity/commit/69ab3ef6963ba16e85989bbc01eff1560d56a42c",
