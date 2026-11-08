@@ -1,0 +1,7 @@
+[2026-11-08T15:05:52Z] === AST ITERATION 1 START | repo=canonical/subiquity sha=d05694b1 ===
+[2026-11-08T15:05:52Z] [iter=1] PHASE START: ast repo=canonical/subiquity sha=d05694b1
+[2026-11-08T15:05:52Z] [iter=1] Building AST aggregate chunks
+[2026-11-08T15:08:45Z] [iter=1] AST chunks built count=1 triples=2531998
+[2026-11-08T15:08:45Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/d05694b1cd06873eac8f91e69afbbb4525ae58ac/.complete
+[2026-11-08T15:08:45Z] [iter=1] PHASE END: ast elapsed_s=173 elapsed_min=2.9
+[2026-11-08T15:08:45Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
